@@ -1,2 +1,2 @@
 # IrisDataset-Classification
-Clasificación del Dataset Iris. LogReg + KNN + DT + SVM
+Clasificación Dataset Iris. Regresión Logística
