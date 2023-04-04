@@ -8,6 +8,7 @@ Tras realizar un [análisis exploratorio de datos](https://www.kaggle.com/code/j
 
 ## Paquetes utilizados:
 - Procesamiento de datos: Pandas.
+- Procesamiento numérico: NumPy.
 - Visualización de datos: Seaborn y Matplotlib.
 - Desarrollo de Modelo: Scikit Learn
 
